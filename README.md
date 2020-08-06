@@ -5,7 +5,7 @@
 
 
 
-# Porque?
+# Por quê?
 Mini Programa feito para estudo usando arquivos ".json", realizando manipulações desde leituras até  escritas. Projeto criado para aplicação de conhecimento em Javascript.
 # Desafio
 (✔) Crie um endpoint para criar uma grade. Este endpoint deverá receber como parâmetros
