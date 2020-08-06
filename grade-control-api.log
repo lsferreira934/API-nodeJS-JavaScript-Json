@@ -1,0 +1,29 @@
+22020-08-06T04:36:35.492Z [grade-control-api.log] info: API Started!
+2020-08-06T04:36:47.219Z [grade-control-api.log] info: GET /student - grades.json
+2020-08-06T04:36:47.657Z [grade-control-api.log] info: API Started!
+2020-08-06T04:37:10.711Z [grade-control-api.log] info: POST /student - {"id":49,"student":"Roberto Achar","subject":"03 - React","type":"Fórum","value":50,"timestamp":"2020-08-06T04:37:10.708Z"}
+2020-08-06T04:37:11.145Z [grade-control-api.log] info: API Started!
+2020-08-06T04:37:22.397Z [grade-control-api.log] info: GET /student - grades.json
+2020-08-06T04:37:22.786Z [grade-control-api.log] info: API Started!
+2020-08-06T04:37:42.039Z [grade-control-api.log] error: POST /student - Student, subject, type ou value são obrigatórios
+2020-08-06T04:37:55.488Z [grade-control-api.log] error: POST /student - Student, subject, type ou value são obrigatórios
+2020-08-06T04:38:06.113Z [grade-control-api.log] error: POST /student - Student, subject, type ou value são obrigatórios
+2020-08-06T04:38:18.456Z [grade-control-api.log] error: POST /student - Student, subject, type ou value são obrigatórios
+2020-08-06T04:38:34.172Z [grade-control-api.log] info: GET /student - grades.json
+2020-08-06T04:38:34.648Z [grade-control-api.log] info: API Started!
+2020-08-06T04:38:52.938Z [grade-control-api.log] error: PUT /student - Id, student, subject, type ou value são obrigatórios
+2020-08-06T04:39:05.168Z [grade-control-api.log] error: PUT /student - Id, student, subject, type ou value são obrigatórios
+2020-08-06T04:39:14.534Z [grade-control-api.log] error: PUT /student - Id, student, subject, type ou value são obrigatórios
+2020-08-06T04:39:26.806Z [grade-control-api.log] error: PUT /student - Id, student, subject, type ou value são obrigatórios
+2020-08-06T04:39:35.752Z [grade-control-api.log] info: PUT /student - {"id":49,"student":"Leandro Ferreira","subject":"01 - JavaScript","type":"Desafio","value":100}
+2020-08-06T04:39:36.199Z [grade-control-api.log] info: API Started!
+2020-08-06T04:39:43.924Z [grade-control-api.log] info: GET /student - grades.json
+2020-08-06T04:39:44.382Z [grade-control-api.log] info: API Started!
+2020-08-06T04:39:59.752Z [grade-control-api.log] info: GET /student/1
+2020-08-06T04:40:10.385Z [grade-control-api.log] info: GET /student/49
+2020-08-06T04:40:25.050Z [grade-control-api.log] info: GET /Leandro Ferreira/01 - JavaScript
+2020-08-06T04:40:45.304Z [grade-control-api.log] info: GET /materia/01 - JavaScript/Desafio
+2020-08-06T04:41:08.910Z [grade-control-api.log] info: GET /melhoresnotas/01 - JavaScript/Desafio
+2020-08-06T04:44:52.277Z [grade-control-api.log] error: PUT /student - Id inexistente
+2020-08-06T04:45:00.547Z [grade-control-api.log] info: PUT /student - {"id":49,"student":"Leandro Ferreira","subject":"01 - JavaScript","type":"Desafio","value":100}
+2020-08-06T04:45:01.029Z [grade-control-api.log] info: API Started!
